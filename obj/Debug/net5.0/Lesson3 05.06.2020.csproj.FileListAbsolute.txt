@@ -14,3 +14,19 @@ C:\Kavrakov Shavqat\C#\Lesson3 05.06.2020\obj\Debug\net5.0\Lesson3 05.06.2020.dl
 C:\Kavrakov Shavqat\C#\Lesson3 05.06.2020\obj\Debug\net5.0\ref\Lesson3 05.06.2020.dll
 C:\Kavrakov Shavqat\C#\Lesson3 05.06.2020\obj\Debug\net5.0\Lesson3 05.06.2020.pdb
 C:\Kavrakov Shavqat\C#\Lesson3 05.06.2020\obj\Debug\net5.0\Lesson3 05.06.2020.genruntimeconfig.cache
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\bin\Debug\net5.0\Lesson3 05.06.2020.exe
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\bin\Debug\net5.0\Lesson3 05.06.2020.deps.json
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\bin\Debug\net5.0\Lesson3 05.06.2020.runtimeconfig.json
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\bin\Debug\net5.0\Lesson3 05.06.2020.runtimeconfig.dev.json
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\bin\Debug\net5.0\Lesson3 05.06.2020.dll
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\bin\Debug\net5.0\ref\Lesson3 05.06.2020.dll
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\bin\Debug\net5.0\Lesson3 05.06.2020.pdb
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\obj\Debug\net5.0\Lesson3 05.06.2020.csprojAssemblyReference.cache
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\obj\Debug\net5.0\Lesson3 05.06.2020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\obj\Debug\net5.0\Lesson3 05.06.2020.AssemblyInfoInputs.cache
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\obj\Debug\net5.0\Lesson3 05.06.2020.AssemblyInfo.cs
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\obj\Debug\net5.0\Lesson3 05.06.2020.csproj.CoreCompileInputs.cache
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\obj\Debug\net5.0\Lesson3 05.06.2020.dll
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\obj\Debug\net5.0\ref\Lesson3 05.06.2020.dll
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\obj\Debug\net5.0\Lesson3 05.06.2020.pdb
+C:\Kavrakov Shavqat\C#\Change-Lesson3-05-06-2020\Lesson3-06-08-2020\obj\Debug\net5.0\Lesson3 05.06.2020.genruntimeconfig.cache

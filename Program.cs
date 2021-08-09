@@ -6,8 +6,11 @@ namespace Lesson3_05._06._2020
     {
         static void Main(string[] args)
         {
-      // Задача 2
+      {
+          // Задача 2
+          Console.Write("Введите значение A : ");
       int A=int.Parse(Console.ReadLine());
+       Console.Write("Введите значение B : ");
        int B=int.Parse(Console.ReadLine());
           if(A==B)
           {
@@ -24,32 +27,46 @@ namespace Lesson3_05._06._2020
               A=B;
               B=A;
           }
-          Console.WriteLine($" {A}  {B} ");
-        
-     /*Задача 3   
+          Console.WriteLine($"Результат значение A : {A}");
+          Console.WriteLine($"Результат значение B : {A}");
+      } 
+    {
+        //Задача 3
+        Console.WriteLine();
+          Console.Write("Введите значение operand1 : ");
     double operand1=double.Parse(Console.ReadLine());
+          Console.Write("Введите значение operand2 : ");
     double operand2=double.Parse(Console.ReadLine());
+          Console.Write("Арифметическая операция : ");
     string sign=Console.ReadLine();
     switch(sign)
      {
-     case "+":Console.WriteLine(operand1+operand2);break;
-     case "-": Console.WriteLine(operand1-operand2);break;
-     case "*": Console.WriteLine(operand1*operand2);break;
+     case "+":Console.WriteLine($"Результат operand1+operand2 = {operand1+operand2}");break;
+     case "-": Console.WriteLine($"Результат operand1-operand2 = {operand1-operand2}");break;
+     case "*": Console.WriteLine($"Результат operand1*operand2 = {operand1+operand2}");break;
      case "/":
      {
          if(operand2==0) Console.WriteLine("На ноль делить нельзя");
-        else Console.WriteLine(operand1/operand2);
-     }break;
-     */
-     /* Задача 4
-     double N=double.Parse(Console.ReadLine());
-     if(N>=0 && N<=14)Console.WriteLine("[0-14]");
-     else if(N>=15 && N<=35)Console.WriteLine("[15-35]");
-      else if(N>=36 && N<=50)Console.WriteLine("[36-50]");
-     else Console.WriteLine("[50-100]");
-    */
+        else Console.WriteLine($"Результат operand1:operand2 = {operand1/operand2}");break;
      }
-     
+     default: Console.WriteLine("Неправильно введенные данные!");break;
+     }
+     }
+     {
+     // Задача 4
+     Console.WriteLine();
+           Console.Write("Введите число :");
+     double num=double.Parse(Console.ReadLine());
+     if(num>=0 && num<=100)
+     {
+    Console.Write("Ваше число входит в промежуток ");
+    if(num>=50)Console.WriteLine("[50-100]");
+    else if(num>=36)Console.WriteLine("[36-50]");
+    else if(num>=15)Console.WriteLine("[15-35]");
+    else Console.WriteLine("[0-14]");
+     }
+     else Console.WriteLine("Ваше число не входит не в одном промежуток!");
+   }
     }
-  }
-
+ }   
+} 

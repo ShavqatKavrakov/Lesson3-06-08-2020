@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Kavrakov Shavqat\\C#\\Lesson3 05.06.2020\\Lesson3 05.06.2020.csproj": {}
+    "C:\\Kavrakov Shavqat\\C#\\Change-Lesson3-05-06-2020\\Lesson3-06-08-2020\\Lesson3 05.06.2020.csproj": {}
   },
   "projects": {
-    "C:\\Kavrakov Shavqat\\C#\\Lesson3 05.06.2020\\Lesson3 05.06.2020.csproj": {
+    "C:\\Kavrakov Shavqat\\C#\\Change-Lesson3-05-06-2020\\Lesson3-06-08-2020\\Lesson3 05.06.2020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Kavrakov Shavqat\\C#\\Lesson3 05.06.2020\\Lesson3 05.06.2020.csproj",
+        "projectUniqueName": "C:\\Kavrakov Shavqat\\C#\\Change-Lesson3-05-06-2020\\Lesson3-06-08-2020\\Lesson3 05.06.2020.csproj",
         "projectName": "Lesson3 05.06.2020",
-        "projectPath": "C:\\Kavrakov Shavqat\\C#\\Lesson3 05.06.2020\\Lesson3 05.06.2020.csproj",
+        "projectPath": "C:\\Kavrakov Shavqat\\C#\\Change-Lesson3-05-06-2020\\Lesson3-06-08-2020\\Lesson3 05.06.2020.csproj",
         "packagesPath": "C:\\Users\\ALIF ACADEMY\\.nuget\\packages\\",
-        "outputPath": "C:\\Kavrakov Shavqat\\C#\\Lesson3 05.06.2020\\obj\\",
+        "outputPath": "C:\\Kavrakov Shavqat\\C#\\Change-Lesson3-05-06-2020\\Lesson3-06-08-2020\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALIF ACADEMY\\AppData\\Roaming\\NuGet\\NuGet.Config",
